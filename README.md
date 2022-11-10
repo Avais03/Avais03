@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new mathematical patterns.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the Moscow Institute of Phisics and Technologies (MIPT).\
+🎓 &nbsp;I'm currently studying at the Moscow Institute of Phisics and Technologies (MIPT).\
 🌱 &nbsp;I'm on track for learning Aplied Mathematics and Computer Science.
 <!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\ -->
 <!-- ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\ -->
@@ -28,7 +28,7 @@
 ![DataSpell](https://img.shields.io/badge/-Data%20Spell-05122A?style=flat&logo=dataspell)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&logoColor=FF0024);\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&logoColor=FF0024)\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=Bash)&nbsp;
 ![ASM x86_64](https://img.shields.io/badge/-ASM_x86_64-05122A?style=flat&logo=ASM_x86_64)&nbsp;
