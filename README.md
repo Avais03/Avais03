@@ -26,6 +26,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm&logoColor=00FF02)&nbsp;
 ![DataSpell](https://img.shields.io/badge/-Data%20Spell-05122A?style=flat&logo=dataspell)&nbsp;\
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
+![DataGrip](https://img.shields.io/badge/-Data%20Grip-05122A?style=flat&logo=datagrip)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&logoColor=FF0024)\
